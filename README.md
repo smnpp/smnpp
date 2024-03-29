@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Simon 👋</h1>
 <p align="center">Software engineer student @ INSA Lyon</p>
 
-<br/>
-
 ## Stats
 
 <br/>
@@ -10,6 +8,7 @@
 <div align="center">
 
 <a href="https://github.com/smnpp">
+	<img src="https://komarev.com/ghpvc/?username=smnpp&style=flat-square&color=blue" alt="views"/>
   	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnpp&theme=github_dark&layout=compact&show_icons=true&hide_border=true" />
 </a>
 &emsp;
