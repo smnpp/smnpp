@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Hazim 👋</h1>
-<p align="center">Future software engineer, passionate in AI/ML and web development</p>
+<h1 align="center">Hi, I'm Simon 👋</h1>
+<p align="center">Software engineer student @ INSA Lyon</p>
 
 <br/>
 
@@ -9,12 +9,12 @@
 
 <div align="center">
 
-<a href="https://github.com/jimasr">
-  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimasr&theme=github_dark&layout=compact&show_icons=true&hide_border=true" />
+<a href="https://github.com/smnpp">
+  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnpp&theme=github_dark&layout=compact&show_icons=true&hide_border=true" />
 </a>
 &emsp;
-<a href="https://github.com/jimasr">
-	<img src="https://github-readme-stats.vercel.app/api?username=jimasr&theme=github_dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github" />
+<a href="https://github.com/smnpp">
+	<img src="https://github-readme-stats.vercel.app/api?username=smnpp&theme=github_dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github" />
 </a>
 </div> 
 
