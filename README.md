@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Simon 👋</h1>
 <p align="center">Software engineer student @ INSA Lyon</p>
 
+<br/>
+
 ## Stats
 
 <br/>
@@ -8,12 +10,9 @@
 <div align="center">
 
 <a href="https://github.com/smnpp">
-	<img src="https://komarev.com/ghpvc/?username=smnpp&style=flat-square&color=blue" alt="views"/>
-  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnpp&theme=github_dark&layout=compact&show_icons=true&hide_border=true" />
-</a>
-&emsp;
-<a href="https://github.com/smnpp">
-	<img src="https://github-readme-stats.vercel.app/api?username=smnpp&theme=github_dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github" />
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=smnpp&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D" />
+	<img src="https://github-readme-stats.vercel.app/api?username=smnpp&layout=compact&theme=github_dark&hide=stars" />
+	
 </a>
 </div> 
 
@@ -45,11 +44,11 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/hazim-asri-307989221" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="hazim-asri-307989221" height="30" width="40" />
+  <a href="https://linkedin.com/in/perretsimon" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="perretsimon" height="30" width="40" />
   </a>
   &emsp;
-  <a href="mailto: hazimasri@yahoo.com">
+  <a href="mailto: simon.perret@insa-lyon.fr">
    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="30" />
   </a>
 </div>
