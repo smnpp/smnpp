@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Simon 👋</h1>
-<p align="center">Software engineer student @ INSA Lyon</p>
+<p align="center">Software engineering student @ INSA Lyon</p>
 
 <br/>
 
