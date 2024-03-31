@@ -5,7 +5,7 @@
 <a href="https://github.com/smnpp" align="center">
     <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=smnpp&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" /> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnpp&layout=compact&theme=transparent" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=smnpp&show_icons=true&locale=en&theme=transparent" alt="smnpp" />
+    <img src="https://github-readme-stats.vercel.app/api?username=smnpp&show_icons=true&locale=en&theme=transparent" />
 </a>
 
 
@@ -45,7 +45,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="30" />
 </a> &emsp;
 <a href="https://www.leetcode.com/smnpp" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="smnpp" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="smnpp" height="30" width="40" />
 </a>
 </p>
 
