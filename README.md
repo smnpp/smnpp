@@ -2,19 +2,18 @@
 <h3 align="center">Software engineering student @ INSA Lyon</h3>
 
 <h3 align="left">Stats:</h3>
-<a href="https://github.com/smnpp">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smnpp&show_icons=true&locale=en&layout=compact" alt="smnpp" />
+<a href="https://github.com/smnpp" align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=smnpp&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" />
-    <img src="https://github-readme-stats.vercel.app/api?username=smnpp&layout=compact&theme=transparent&hide=stars" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnpp&layout=compact&theme=transparent" />
-    <img src="https://github-readme-stats.vercel.app/api?username=smnpp\&hide=issues\&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=smnpp&show_icons=true&locale=en&theme=transparent" alt="smnpp" />
+    <img src="https://github-readme-stats.vercel.app/api?username=smnpp&layout=compact&theme=transparent&hide=stars" />
 </a>
 
 
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -37,22 +36,14 @@ a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smnpp&show_icons=true&locale=en&layout=compact" alt="smnpp" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smnpp&show_icons=true&locale=en" alt="smnpp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smnpp&" alt="smnpp" /></p>
-
-
 <h3 align="left">Contacts & social medias:</h3>
-<a href="https://linkedin.com/in/perretsimon" target="blank">
+<a href="https://linkedin.com/in/perretsimon" target="blank" align="left">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="perretsimon" height="30" width="40" />
 </a> &emsp;
-<a href="mailto: simon.perret@insa-lyon.fr">
+<a href="mailto: simon.perret@insa-lyon.fr" align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="30" />
 </a> &emsp;
-<a href="https://www.leetcode.com/smnpp" target="blank">
+<a href="https://www.leetcode.com/smnpp" target="blank" align="left">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="smnpp" height="30" width="40" />
 </a>
 
