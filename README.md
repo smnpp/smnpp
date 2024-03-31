@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">Software engineering student @ INSA Lyon</h3>
 
-<h3 align="center">Stats:</h3>
+<h3 align="left">Stats:</h3>
 <p align="center">
 <a href="https://github.com/smnpp" align="center">
     <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=smnpp&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" /> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnpp&layout=compact&theme=transparent" />
+    <br>
     <img src="https://github-readme-stats.vercel.app/api?username=smnpp&show_icons=true&locale=en&theme=transparent" />
 </a>
 </p>
