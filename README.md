@@ -37,3 +37,9 @@
 </a> &emsp;
 </p>
 
+<h3 align="left">Take a look at my internship repository</h3>
+<p align="center">
+<a href="https://github.com/smnppKDAB/knut" target="blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg"  alt="perretsimon" height="30" width="40" />
+</a> &emsp;
+
